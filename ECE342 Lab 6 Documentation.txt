@@ -1,0 +1,13 @@
+Lab 6 Part 2 Documentation
+
+Memory(4KB)[R/W]
+0x0000 to 0xffff
+
+Switch(10 bit)[Read]
+0x1000 to 0x100f
+
+LEDs(10 bit)[Write]
+0x1010 to 0x101f
+
+Quad Hex(16 bit)[Write]
+0x1020 to 0x1021
